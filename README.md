@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋</h1>
-<h2 align="center">- I'm student  👋</h2>
+<div align="center"><h1>Hi there 👋</h1>
+<p>- I'm student 💻📚</p></div>
 
 
 - 🔭 I’m currently looking for work
