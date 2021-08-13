@@ -1,16 +1,8 @@
 ### Hi there 👋
+- I'm student 
 
-
-**RuanOliv/RuanOliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently looking for work
+- 🌱 I’m currently learning CSS, HTML, JS, ReactJS
 - 🤔 I’m looking for help with ReactJS
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
