@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center">Hi there 👋</p>
 - I'm student 
 
 - 🔭 I’m currently looking for work
