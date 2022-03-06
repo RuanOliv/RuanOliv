@@ -1,4 +1,5 @@
-<div align="center"><h1>Oi, me chamo Ruan. Sou estudante e estou à procura de um emprego!</h1>
+<div align="center"><h1>Oi, me chamo Ruan.</h1>
+  <p>Sou estudante e estou à procura de um emprego!</p>
 <div align="center">
   <a href="https://github.com/RuanOliv">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=RuanOliv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
