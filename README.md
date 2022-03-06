@@ -9,7 +9,7 @@
   <img align="center" alt="Ruan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ruan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Ruan-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C5603AQF7FIvQ0sM3FQ/profile-displayphoto-shrink_400_400/0/1637331730072?e=1652313600&v=beta&t=ifjDEfSCINKl0yKwpwDJ-Waino8Ok1vwWHwKHCM1TrU?width=400&height=400">
+  <img align="right" alt="Ruan-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C5603AQF7FIvQ0sM3FQ/profile-displayphoto-shrink_400_400/0/1637331730072?width=400&height=400">
 </div>
   
   ##
